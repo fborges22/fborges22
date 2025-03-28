@@ -1,4 +1,4 @@
-<h1 align="center">Moi, Olá, Hi 👋, I'm Felipe</h1>
+<h1 align="center">Moi, Olá, Hi 👋 I'm Felipe</h1>
 <h3 align="center">Tervetuloa, Bem-vindo, Welcome 😀🌎🌍🌐🇧🇷🇵🇹🇫🇮</h3>
 
 <h3 align="justify">
@@ -7,7 +7,7 @@ I am an innovative individual with a multidisciplinary profile, having studied C
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22" alt="fborges22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22&theme=onedark" alt="fborges22" /></a> </p>
 
 - 🔭 I’m currently working on **Remote Administration Tool (RAT)** code-named NEW HORIZON
 
