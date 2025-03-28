@@ -9,7 +9,7 @@ I am an innovative individual with a multidisciplinary profile, having studied C
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22" alt="fborges22" /></a> </p>
 
-- 🔭 I’m currently working on **Remote Administration Tool (RAT)**
+- 🔭 I’m currently working on **Remote Administration Tool (RAT)** code-named NEW HORIZON
 
 - 🌱 I’m currently learning **C++, C, Python, C# and Java**
 
