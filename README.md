@@ -5,6 +5,10 @@
 I am an innovative individual with a multidisciplinary profile, having studied Computer Science, Electrical Engineering, and Chemistry. This diverse background allows me to approach challenges from unique perspectives and develop creative, holistic solutions.
 </h3>
 
+<h3 align="justify">
+Olen innovatiivinen henkilö, jolla on monitieteinen tausta – olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22&theme=onedark" alt="fborges22" /></a> </p>
