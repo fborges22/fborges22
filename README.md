@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">I am an inovative person with an multidisciplinary profile. 😀🌎🌍🌐🇧🇷🇵🇹🇫🇮</h3>
+<h1 align="center">Moi, Olá, Hi 👋, I'm Felipe</h1>
+<h3 align="center">Tervetuloa, Bem-vindo, Welcome 😀🌎🌍🌐🇧🇷🇵🇹🇫🇮</h3>
+
+<h3 align="justify">
+I am an innovative individual with a multidisciplinary profile, having studied Computer Science, Electrical Engineering, and Chemistry. This diverse background allows me to approach challenges from unique perspectives and develop creative, holistic solutions.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
 
