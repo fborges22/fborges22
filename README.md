@@ -15,7 +15,7 @@ Olen innovatiivinen henkilö, jolla on monitieteinen tausta – olen opiskellut 
 
 - 🔭 I’m currently working on **Remote Administration Tool (RAT)** code-named NEW HORIZON
 
-- 🌱 I’m currently learning **C++, C, Python, C# and Java**
+- 🌱 I’m currently using **C++, C, Python, C#, Java and JS languages**
 
 - 📝 I regularly write articles on Computing and Engineering
 
