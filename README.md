@@ -6,7 +6,7 @@ I am an innovative individual with a multidisciplinary profile, having studied C
 </h3>
 
 <h3 align="justify">
-Olen innovatiivinen henkilö, jolla on monitieteinen tausta – olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
+Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
