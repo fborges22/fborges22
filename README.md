@@ -6,6 +6,10 @@ I am an innovative individual with a multidisciplinary profile, having studied C
 </h3>
 
 <h3 align="justify">
+Sou um indivíduo inovador com um perfil multidisciplinar, tendo estudado Ciências da Computação, Engenharia Eletrotécnica e Química. Esta formação diversificada permite-me abordar os desafios a partir de perspectivas únicas e desenvolver soluções criativas e holísticas.
+</h3>
+
+<h3 align="justify">
 Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
 </h3>
 
