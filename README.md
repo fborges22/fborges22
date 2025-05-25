@@ -1,5 +1,5 @@
-<h1 align="center">Moi, Olá, Hi I'm Felipe</h1>
-<h3 align="center">Tervetuloa, Bem-vindo, Welcome 🌐🇧🇷🇵🇹🇫🇮</h3>
+<h1 align="center">Welcome, Bem-vindo, Tervetuloa</h1>
+<h3 align="center">Moi, Olá, Hi I'm Felipe 🌐🇧🇷🇵🇹🇫🇮</h3>
 
 <h3 align="justify">
 I am an innovative individual with a multidisciplinary profile, having studied Computer Science, Electrical Engineering, and Chemistry. This diverse background allows me to approach challenges from unique perspectives and develop creative, holistic solutions.
