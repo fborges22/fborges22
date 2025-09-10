@@ -13,6 +13,10 @@ Sou um indivíduo inovador com um perfil multidisciplinar, tendo estudado Ciênc
 Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
 </h3>
 
+<h3 align="justify">
+Sono una persona innovativa con un profilo multidisciplinare, avendo studiato Informatica, Ingegneria Elettrica e Chimica. Questo background diversificato mi permette di affrontare le sfide da prospettive uniche e sviluppare soluzioni creative e olistiche.
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22&theme=onedark" alt="fborges22" /></a> </p>
