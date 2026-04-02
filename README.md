@@ -15,7 +15,7 @@ Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fborges22&theme=onedark" alt="fborges22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=fborges22&theme=juicyfresh&no-frame=true" alt="fborges22" /></a> </p>
 
 - 🔭 I’m currently working on **Remote Administration Tool (RAT)** code-named NEW HORIZON
 
