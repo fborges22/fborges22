@@ -17,7 +17,7 @@ Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tie
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=fborges22&theme=juicyfresh&no-frame=true" alt="fborges22" /></a> </p>
 
-- 🔭 I’m currently working on **Remote Administration Tool (RAT)** code-named NEW HORIZON
+- 🔭 I’m currently working on **Remote Administration Tool and Framework (RATF)** code-named NEW HORIZON
 
 - 🌱 I’m currently using **C++, C, Python, C#, Java and JS languages**
 
