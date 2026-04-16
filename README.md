@@ -28,8 +28,8 @@ Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tie
 * [Instagram](https://instagram.com/faborges22)
 
 ### Languages and Tools
-* **Programming Languages:** Bash, C, C++, C#, Java, JavaScript, MATLAB, Python
+* **Programming Languages:** C++, C, Python, C#, Java, JavaScript, MATLAB, Bash
 * **Cloud & DevOps:** AWS, Azure, CircleCI, Docker, Google Cloud (GCP), Jenkins, Kubernetes, Travis CI, Vagrant
 * **Databases:** MariaDB, MongoDB, MSSQL, MySQL, Oracle, PostgreSQL, SQLite
-* **Frameworks & Libraries:** .NET, GTK, Node.js, OpenCV, Qt, wxWidgets
+* **Frameworks & Libraries:** .NET, GTK, Node.js, OpenCV, Qt, wxWidgets, MFC, Win32 API
 * **Platforms & Tools:** Arduino, Git, IFTTT, Linux, Nginx, RabbitMQ, Unreal Engine
