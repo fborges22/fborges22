@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, Bem-vindo, Tervetuloa</h1>
-<h3 align="center">🌐 Hi, Olá, Moi. I'm Felipe. 🗺️</h3>
+<h3 align="center">🌐 Hi, Olá, Moi, こんにちは. I'm Felipe. 🗺️</h3>
 
 <h3 align="justify">
 I am an innovative individual with a multidisciplinary profile, having studied Computer Science, Electrical Engineering, and Chemistry. This diverse background allows me to approach challenges from unique perspectives and develop creative, holistic solutions.
@@ -11,6 +11,10 @@ Sou um indivíduo inovador com um perfil multidisciplinar, tendo estudado Ciênc
 
 <h3 align="justify">
 Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tietojenkäsittelytiedettä, sähkötekniikkaa ja kemiaa. Tämä monipuolinen tausta antaa minulle valmiudet lähestyä haasteita ainutlaatuisista näkökulmista ja kehittää luovia, kokonaisvaltaisia ratkaisuja.
+</h3>
+
+<h3 align="justify">
+私はコンピュータサイエンス、電気工学、化学を学んできた、多分野にわたるプロフィールを持つ革新的な人物です。この多様なバックグラウンドにより、独自の視点から課題に取り組み、創造的で包括的な解決策を生み出すことができます。
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fborges22&label=Profile%20views&color=0e75b6&style=flat" alt="fborges22" /> </p>
