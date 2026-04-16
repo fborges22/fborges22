@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, Bem-vindo, Tervetuloa</h1>
+<h1 align="center">Welcome, Bem-vindo, Tervetuloa, こんにちは</h1>
 <h3 align="center">🌐 Hi, Olá, Moi, こんにちは. I'm Felipe. 🗺️</h3>
 
 <h3 align="justify">
