@@ -27,10 +27,6 @@ Olen innovatiivinen henkilö, jolla on monitieteinen tausta, olen opiskellut tie
 
 - 📝 I regularly write articles on Computing and Engineering
 
-### Connect with me
-* [LinkedIn](https://linkedin.com/in/fborges22)
-* [Instagram](https://instagram.com/faborges22)
-
 ### Languages and Tools
 * **Programming Languages:** C++, C, Python, C#, Java, JavaScript, MATLAB, Bash
 * **Cloud & DevOps:** AWS, Azure, CircleCI, Docker, Google Cloud (GCP), Jenkins, Kubernetes, Travis CI, Vagrant
